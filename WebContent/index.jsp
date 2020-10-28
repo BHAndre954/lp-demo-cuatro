@@ -8,5 +8,8 @@
 </head>
 <body>
 <h1>Sistema Educativo Cibertec</h1>
+
+<h2>Joseph Andre Bolaños Hernandez</h2>
+
 </body>
 </html>
